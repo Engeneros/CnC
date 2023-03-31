@@ -1,0 +1,59 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~148|Field=Description~String~Description~293|Field=Designator~String~Designator~2801|Field=Quantity~Integer~Quantity~79|Field=Temp~String~Temp~59|Field=Tolerance~String~Tolerance~101|Field=Vendor~String~Vendor~123|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CtlQFP.PrjPcb|ReportField=ProjectFullPath~D:\D\Proj\CnC\CnCPrj\CtlQFP\CtlQFP.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [QFP.PcbDoc]|ReportField=ReportTime~18:06:37|ReportField=ReportDate~31.03.2023|ReportField=ReportDateTime~31.03.2023 18:06:37|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~414|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~b3a7b52f230ac82f474ed9e03c6c576a1bc30ca7|ReportField=DataSourceFileName~QFP.PcbDoc|ReportField=DataSourceFullPath~D:\D\Proj\CnC\CnCPrj\QFP.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|15EDGVC-3.81-04P|Вилка  4/3.81|X50, X51|2|||Degson
+2|PLD30|Вилка  PLD 30/2.54|X47|1|||Confly
+3|PLD40|Вилка  PLD 40/2.54|X46|1|||Confly
+4|PLS6|Вилка  PLS 6x2.54|X22|1|||Confly
+5|PLD20|Вилка  PLD 20/1.27|X6, X7, X8, X9, X10, X11, X12, X31, X32, X33, X34|11|||Confly
+6|15EDGVC-3.81-06P|Вилка  6/3.81|X1, X2, X3, X4, X5, X23, X24, X25, X26, X27, X28, X29, X30, X53, X54|15|||Degson
+7|SM5819|Чип шоттки диод MELF|VD34, VD35, VD40|3|||Diotec
+8|KP2012|Чип светодиод 0805|VD1, VD2, VD3, VD4, VD5, VD6, VD7, VD8, VD9, VD10, VD11, VD12, VD13, VD14, VD15, VD16, VD17, VD18, VD19, VD20, VD21, VD36, VD37, VD38, VD39, VD41, VD42, VD43, VD44, VD45|30|||KB
+9|SWT-1|Кнопка тактовая|SA1, SA2|2|||KLS
+10|220 Ом|Чип резистор 0805|R218|1||5%|Generic
+11|51 Ом|Чип резистор 0805|R217|1||5%|Generic
+12|20 Ом|Чип резистор 1206|R216|1||5%|Generic
+13|110 кОм|Чип резистор 0805|R215|1||1%|Generic
+14|510 кОм|Чип резистор 0805|R211|1||5%|Generic
+15|100 кОм|Чип резистор 0805|R207, R208, R212, R214|4||5%, 1%|Generic
+16|510 Ом|Чип резистор 0805|R157|1||5%|Generic
+17|270 кОм|Чип резистор 0805|R156|1||5%|Generic
+18|300 Ом|Чип резистор 0805|R155|1||5%|Generic
+19|120 Ом|Чип резистор 0805|R154|1||5%|Generic
+20|2к49|Чип резистор 0805|R137, R138|2||1%|Generic
+21|2к74|Чип резистор 0805|R128|1||1%|Generic
+22|1к62|Чип резистор 0805|R127|1||1%|Generic
+23|0 Ом|Чип резистор 1206|R120, R134, R136, R160, R163, R165, R167|7||5%|Generic
+24||Чип резистор 1206|R119, R135, R159, R161, R162, R164, R166|7||5%|Generic
+25|1 кОм|Чип резистор 0805|R4, R8, R12, R19, R23, R27, R34, R38, R42, R49, R53, R57, R64, R68, R72, R124, R125, R131, R152, R153, R176, R180, R184, R188, R192, R196|26||5%|Generic
+26|5к1|Чип резистор 1206|R2, R3, R6, R7, R10, R11, R17, R18, R21, R22, R25, R26, R32, R33, R36, R37, R40, R41, R47, R48, R51, R52, R55, R56, R62, R63, R66, R67, R70, R71, R77, R78, R94, R95, R96, R97, R98, R101, R102, R103, R104, R105, R106, R107, R108, R109, R110, R111, R112, R113, R114, R115, R116, R117, R118, R132, R133, R174, R175, R177, R178, R181, R182, R185, R186, R189, R190, R193, R194, R219|70||5%|Generic
+27|10 кОм|Чип резистор 0805|R1, R5, R9, R13, R14, R15, R16, R20, R24, R28, R29, R30, R31, R35, R39, R43, R44, R45, R46, R50, R54, R58, R59, R60, R61, R65, R69, R73, R74, R75, R76, R79, R80, R81, R82, R83, R84, R85, R86, R87, R88, R89, R90, R91, R92, R93, R99, R100, R121, R122, R126, R130, R139, R140, R141, R142, R148, R149, R150, R158, R168, R169, R170, R171, R172, R173, R179, R183, R187, R191, R195, R197, R198, R199, R200, R201, R202, R203, R204, R205, R206, R210|82||5%, 1%|Generic
+28|KX-3HT  8 МГц|Резонатор кварцевый|Q1|1|||Geyer
+29|B82464G4153|SMD Дроссель|L3|1|||TDK
+30|CDRH6D38NP-101NC|SMD Дроссель|L2|1|||Sumida
+31|B82464G4682|SMD Дроссель|L1|1|||TDK
+32|PLS3|Джампер PLS3 2.54мм|J18, J19, J20, J21, J22, J23, J24, J27, J28|9|||
+33|PLS2|Джампер PLS2 2.54мм|J13, J14, J15, J29, J30, J31, X21, X52|8|||
+34|0 Ом|SMD 0805 перемычка, Чип резистор 0805|J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J12, J16, J17, J25, J26, R129, R144, R145, R146, R147, R151|21||[NoParam], 5%|[NoValue], Generic
+35|MF-MSMF020|Предохранитель самовосстанавливающийся|FU2|1|||Bourns
+36|MF-MSMF075|Предохранитель самовосстанавливающийся|FU1|1|||Bourns
+37|ADUM1200ARZ|2х канальный цифровой изолятор|DD12|1|||Analog Devices
+38|TLP281|Оптопара транзисторная|DD11|1|||Tosba
+39|STM809SWX6|Reset генератор|DD9|1|||STM
+40|STM32F303VCT6|ARM Cortex3|DD8|1|||STM
+41|ULN2803AWFG|Буфер 8-канальный|DD6, DD7, DD10|3|||Toshiba
+42|TLP281-4|4х канальная транзисторная оптопара|DD1, DD2, DD3, DD4, DD5|5|||Tosba
+43|ADG719SRJZ-EP|аналоговый ключ SPDT|DA11, DA12|2|||Anlog Devices
+44|P6AU-2412|Изолированный DC-DC|DA10|1|||Peak Electronics
+45|SPX1117M3-5-0|LDO стабилизатор|DA9|1|||Sipex
+46|OP262GS|ОУ сдвоенный R2R out|DA6, DA7|2|||Analog Devices
+47|LM2594DADR|Понижающий DC/DC конвертор|DA2|1|||ON Semi
+48|XTPS62933DRLR|Понижающий DC/DC конвертор|DA1|1|||TI
+49|10 пФ|Чип конденсатор 0805|C85|1|NPO||Generic
+50|20,0 мкФ|Чип конденсатор 0805|C75, C76, C77, C78, C79, C82, C83|7|Y5V||Generic
+51|10 нФ|Чип конденсатор 0805|C72|1|Y5V||Generic
+52|22 пФ|Чип конденсатор 0805|C46, C47|2|Y5V||Generic
+53|0,1 мкФ|Чип конденсатор 0805|C42, C43, C48, C49, C70, C71, C73, C81|8|Y5V||Generic
+54|1,0 мкФ|Чип конденсатор 0805|C33, C35, C37, C39, C41, C45, C56, C58, C63, C65, C67, C68, C74, C80|14|Y5V||Generic
+55|10 нФ|Чип конденсатор 0805|C18|1|Y5V||Generic
+56|0,22 мкФ|Чип конденсатор 0805|C9, C16, C20, C84|4|Y5V||Generic
+57|47,0 мкФ 35В|5мм Электролитический конденсатор|C2, C3, C6, C7, C10, C11, C12, C17, C19, C22, C24, C25, C27, C51|14|||
+58|0,22 мкФ|Чип конденсатор 0805|C1, C4, C5, C15, C23, C32, C34, C36, C38, C40, C44, C50, C52, C53, C54, C55, C57, C59, C60, C61, C62, C64, C66|23|Y5V||Generic
